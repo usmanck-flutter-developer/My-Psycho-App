@@ -57,4 +57,14 @@ For any issues or feature requests, feel free to open an [Issue](https://github.
 
 ---
 
+## 📚 Learning Resources
+If you're new to Flutter or want to explore more, check out these resources:
+- [Flutter Official Documentation](https://flutter.dev/docs)
+- [Dart Programming Language](https://dart.dev/)
+- [Firebase for Flutter](https://firebase.flutter.dev/)
+- [State Management with Provider](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
+---
+
+---
+
 🔮 *Unlock the future with the Psychic App!* 🌟
