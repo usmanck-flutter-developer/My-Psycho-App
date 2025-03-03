@@ -65,6 +65,4 @@ If you're new to Flutter or want to explore more, check out these resources:
 - [State Management with Provider](https://flutter.dev/docs/development/data-and-backend/state-mgmt/simple)
 ---
 
----
-
 🔮 *Unlock the future with the Psychic App!* 🌟
