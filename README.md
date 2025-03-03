@@ -30,7 +30,7 @@ Ensure you have the following installed:
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/psychic-app.git
+git clone https://github.com/usmanck-flutter-developer/My-Psycho-App
 cd psychic-app
 ```
 
