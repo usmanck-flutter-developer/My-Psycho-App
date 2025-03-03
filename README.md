@@ -6,7 +6,7 @@
 ---
 
 ## 📸 Screenshots
-| Home Screen | Tarot Reading | Horoscope | Support |
+| Tarot Reading | Horoscope | Support | Support |
 |------------|--------------|-----------|---------|
 | ![Tarot Reading](assets/image1.jpg) | ![Horoscope](assets/image2.jpg) | ![Support](assets/image3.jpg) | ![Support](assets/image4.jpg) |
 
